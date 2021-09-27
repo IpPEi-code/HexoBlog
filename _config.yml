@@ -1,12 +1,12 @@
-title: MyHexo-blog
+title: MyHexo-Blog
 subtitle: ''
 description: ''
 keywords: null
 author: IpPEi
 language: ja
 timezone: ''
-url: https://github.com/IpPEi-code/HexoBlog
-root: /HexoBlog
+url: https://github.com/IpPEi-code/MyHexoBlog
+root: /MyHexo-Blog
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -63,6 +63,6 @@ ignore: null
 theme: landscape
 deploy:
   type: git
-  repo: https://github.com/IpPEi-code/HexoBlog.git
+  repo: https://github.com/IpPEi-code/MyHexo-Blog.git
   branch: master
   repository: git@github.com:IpPEi-code/IpPEi-code.github.io.git
