@@ -5,8 +5,8 @@ keywords: null
 author: IpPEi
 language: ja
 timezone: ''
-url: https://github.com/IpPEi-code/MyHexoBlog
-root: /MyHexo-Blog
+url: https://www.lifestylen0mad.com/
+root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -60,7 +60,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: landscape
+theme: icarus
 deploy:
   type: git
   repo: https://github.com/IpPEi-code/MyHexo-Blog.git
